@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and API keys
+.env
+*.env.local
+
+# Generated submission/data artifacts
+*.zip
+1763366060_dataset/
+1763366060_dataset.zip
+Agentic_RAG_Submission.zip.zip
+1763366029_course_end_project_problem_statement.pdf
+
+# Jupyter and OS noise
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
